@@ -1,0 +1,8 @@
+- Se debe tener Visual Studio Code
+- Instalar Git
+- Instalar Node Js
+- De esta pagina sale el comando para crear el proyecto -> https://create-react-app.dev/docs/adding-typescript/
+- Para poder crear un proyecto con react se utiliza este comando → npx create-react-app my-app --template typescript
+- En la parte señalada se pone el nombre de la carpeta como se llama la app
+- Para iniciar el proyecto en react se pone → npm run start
+- Se abre el navegador con el puerto 3000
