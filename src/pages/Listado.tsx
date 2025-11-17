@@ -1,4 +1,4 @@
-import react,{useEffect,useState} from "react";
+import {useEffect,useState} from "react";
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import 'bootstrap/dist/css/bootstrap.min.css';
